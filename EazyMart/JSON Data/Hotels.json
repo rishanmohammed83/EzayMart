@@ -1,0 +1,26 @@
+[
+    {
+        "name": "KFC",
+        "image": "kfcresto.jpg",
+    },
+    {
+        "name": "Al Reem",
+        "image": "alreem.jpg",
+    },
+    {
+        "name": "Arabian Palace",
+        "image": "arabian.png",
+    },
+    {
+        "name": "Chicking",
+        "image": "chicking.jpg",
+    },
+    {
+        "name": "Dominos",
+        "image": "dominos.jpg",
+    },
+    {
+        "name": "Pizza Hut",
+        "image": "pizzahut.jpg",
+    }
+]

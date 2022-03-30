@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Donuts",
+        "type": "Sweet",
+        "image": "donut.png",
+        "prize": 90,
+    },
+    {
+        "name": "Chicken",
+        "type": "Hot",
+        "image": "kfc.png",
+        "prize": 190,
+    },
+    {
+        "name": "Pepsi",
+        "type": "Drinks",
+        "image": "pespi.png",
+        "prize": 65,
+    },
+    {
+        "name": "Milk",
+        "type": "Dairy",
+        "image": "milk.png",
+        "prize": 30,
+    },
+    {
+        "name": "Cheese",
+        "type": "Dairy",
+        "image": "cheese.png",
+        "prize": 125,
+    },
+    {
+        "name": "White Rice",
+        "type": "Glocery",
+        "image": "white_rice.png",
+        "prize": 60,
+    },
+    {
+        "name": "Brown Rice",
+        "type": "Glocery",
+        "image": "brown_rice.png",
+        "prize": 45,
+    },
+    {
+        "name": "Ice Cream",
+        "type": "Frozen",
+        "image": "icecream.png",
+        "prize": 270,
+    },
+    {
+        "name": "Cotton Candy",
+        "type": "Sweet",
+        "image": "cotton_candy.png",
+        "prize": 10,
+    },
+    {
+        "name": "Diary Milk",
+        "type": "Sweet",
+        "image": "diary_milk.png",
+        "prize": 25,
+    },
+    {
+        "name": "Apple",
+        "type": "Fruit",
+        "image": "apple.png",
+        "prize": 49,
+    }
+]
+ 

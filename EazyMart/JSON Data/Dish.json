@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Burger",
+        "type": "non veg"
+    },
+    {
+        "name": "Pizza",
+        "type": "veg"
+    },
+    {
+        "name": "Biriyani",
+        "type": "non veg"
+    },
+    {
+        "name": "Shawarma",
+        "type": "non veg"
+    },
+    {
+        "name": "Fried rice",
+        "type": "veg"
+    },
+    {
+        "name": "Mandhi",
+        "type": "non veg"
+    }
+]
